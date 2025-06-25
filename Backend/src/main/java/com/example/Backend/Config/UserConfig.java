@@ -1,4 +1,6 @@
-package com.example.Backend.Config;;
+package com.example.Backend.Config;
+
+;
 
 public class UserConfig {
 }

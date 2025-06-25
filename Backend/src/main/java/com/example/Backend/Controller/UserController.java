@@ -1,4 +1,6 @@
-package com.example.Backend.Controller;;
+package com.example.Backend.Controller;
+
+;
 
 public class UserController {
 }
