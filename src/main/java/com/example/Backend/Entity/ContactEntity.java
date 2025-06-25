@@ -22,7 +22,7 @@ public class ContactEntity {
 
     private String address;
 
-
+    // Getters and Setter (yo comment rakhi deko maile for checking the git purpose)
     public Long getId() {
         return id;
     }
